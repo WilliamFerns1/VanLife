@@ -5,7 +5,12 @@
 
 Vanlife is a simple project made in React and React Router 6. 
 
+## Login:
 
+Real user authentication is not in yet, so you can log in with the following details:
+
+- Email: b@b.com
+- Password: p123
 
 ## Live demo:
 
