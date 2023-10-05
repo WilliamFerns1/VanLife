@@ -1,23 +1,12 @@
-# co45545339b91f7bc063f924a
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+[![Vanilife](https://cdn.discordapp.com/attachments/1107675935882358875/1158015944413675530/VANLIFE.png?ex=652bd964&is=65196464&hm=7dfad884768754fa6d1abf456172b97fff996338b081f8ce79a432d5a69fdabd&)](https://vanlife.williamferns.com)
 
-Quick start:
+# VanLife
 
-```
-$ npm install
-$ npm start
-````
+Vanlife is a simple project made in React and React Router 6. 
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Live demo:
 
-Happy Coding!
+You can [click here](https://vanlife.williamferns.com) see a live demo.
